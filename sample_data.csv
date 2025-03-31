@@ -1,0 +1,4 @@
+Location Name,Date,Latitude,Longitude,Soil Moisture (%),pH Level,Temperature (°C),Salinity (dS/m),Nitrogen (mg/kg),Phosphorus (mg/kg),Potassium (mg/kg),Calcium (mg/kg),Magnesium (mg/kg)
+Farm A,2024-03-29,12.3456,78.9012,65.5,6.8,25.3,2.1,45.2,35.8,180.5,1200.3,450.2
+Farm B,2024-03-29,12.3457,78.9013,58.2,7.2,28.5,1.8,42.5,32.1,165.8,1100.5,420.8
+Farm C,2024-03-29,12.3458,78.9014,62.8,7.0,26.8,1.9,43.8,33.9,173.2,1150.4,435.5 
